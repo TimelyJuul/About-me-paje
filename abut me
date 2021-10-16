@@ -1,0 +1,55 @@
+<header class="masthead">
+  <p class="masthead-intro">Anderson, tall dude</p>
+  <h1 class="masthead-heading"> </h1>
+</header>
+  <section class="introduction-section">
+    <div class="container">
+    <h1>Introduction</h1>
+    <p>Hello my name is Anderson and im 14 years old. I am 6'4 and im funny and handsome. I am a <strong>student</strong> that goes to <a href="https://www.lcps.org/BRHS">Broad Run</a> here in ashburn.
+    <p/>
+    
+    <p>I am an easy to talk to person because I am a <strong>good listener</strong>.
+    
+    <p>I have a social media page if you are interested in reading my tweets that i do on a <strong>daily</strong> basis. Here is the <a href="https://twitter.com/andrsnnohoes">Twitter.</a></p>
+    </div>
+  </section>
+
+  <section class="location-section">
+    <div class="container">
+    <h1>Where I'm From</h1>
+    <p>My home is<a href="https://es.wikipedia.org/wiki/Ashburn_(Virginia)">Ashburn Virgnia.</a> My favorite thing about Ashburn is how there is so much fun stuff to do! For example you can visit the <b>Ultimate Archery</b> place.
+    
+    
+      
+   
+    </div>
+  </section>
+
+  <section class="questions-section">
+    <div class="container">
+    <h1>More About Me</h1>
+      <p> I used to have horrible grades in school until i found a spark of joy in my life. Its imporant to surround yourself with people that you love.</p>
+    <h2>What are your favorite hobbies?</h2>
+      <p>One hobby I used to do was <strong>soccer</strong>. I was good at soccer until Covid-19 hit us. It made playing soccer so hard because my parents didnt want to  leave the house. Now i mostly focus on videogames. I like to hangout with my friends too from time to time.
+
+    <h2>What's your dream job?</h2>
+    <p>A professional turtle racer. Just kidding, I would love to be a full-time <strong>creative</strong> who's given an array of responsibilities in front-end work, photography, design, and whatever else comes my way.</p>
+
+    <h2>What music have you been listening to lately?</h2>
+    <p>My husband and I recently roadtripped through Arizona listening to the band <a href="http://houndmouth.com/">Houdmouth</a>. I don't know what it is about them, but they make you want to keep driving and driving. Start with the song <a href="https://www.youtube.com/watch?v=Y8wifV5RYr8">"Sedona"</a> first.</p>
+    </div>
+  </section>
+
+  <footer class="content-footer">
+    <div class="footer-container">
+    <p>Say hi to me on these social networks:</p>
+    
+    <a target="_blank" href="https://github.com/kedarjoyner"><i class="fa fa-github-alt fa-inverse fa-2x"></i></a>
+    &nbsp;
+    <a href="https://twitter.com/kedmasterk"><i class="fa fa-twitter fa-inverse fa-2x"></i></a>
+    &nbsp;
+    <a href="https://instagram.com/kedarjoyner/"><i class="fa fa-instagram fa-inverse fa-2x"></i></a>
+    
+    <p>Cover Image via <a href="http://www.kedarjoyner.com">Kedar Joyner Photography</a></p>
+</div>
+  </footer>
